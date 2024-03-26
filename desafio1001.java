@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class desafio1001 {
     public static void main(String[] args)
     {
-    /*Criar 2 variÃ¡veis para input de nÃºmeros inteiros, e uma variÃ¡vel para imprimir na tela o resultado
-      da soma dessas 2 variÃ¡veis
+    /*Criar 2 variáveis para input de números inteiros, e uma variável para imprimir na tela o resultado
+      da soma dessas 2 variáveis
     */
      Scanner scanner = new Scanner(System.in);
 
